@@ -56,7 +56,7 @@ The `SpatialExperiment` class was originally built for spatial transcriptomics d
 
 ```{r, echo=FALSE}
 # image from Righelli et al. 2021
-url <- "https://lmweber.org/OSTA-book/images/SPE.png"
+url <- "SPE.png"
 ```
 
 <center><img src="`r url`"></center>
